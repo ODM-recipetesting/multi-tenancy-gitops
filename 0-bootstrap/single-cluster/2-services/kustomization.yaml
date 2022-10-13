@@ -2,7 +2,8 @@ resources:
 # IBM Software
 - argocd/operators/ibm-catalogs.yaml
 - argocd/instances/sealed-secrets.yaml
-- argocd/operators/ibm-cp4a-operator.yaml  
+- argocd/operators/ibm-cp4a-operator.yaml 
+# - argocd/instances/ibm-cp4ba-odm.yaml
 ## Cloud Pak for Integration
 # - argocd/operators/ibm-ace-operator.yaml
 #- argocd/operators/ibm-apic-operator.yaml
